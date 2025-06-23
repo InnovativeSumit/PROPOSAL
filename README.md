@@ -6,7 +6,7 @@ A **fun and addictive tapping game** built with **HTML, CSS, and JavaScript**. T
 
 ## 🎮 Live Demo
 
-🔗 **Play Now**: [Tap-Baby Game](https://innovativesumit.github.io/TAP-BABY-GAME/)
+🔗 **Play Now**: [PROPOSAL](https://innovativesumit.github.io/PROPOSAL/)
 
 
 ## ✨ Features
@@ -65,6 +65,5 @@ If you liked this project or want to collaborate, connect with me here:
 [![GitHub](https://img.icons8.com/fluency/48/github.png)](https://github.com/InnovativeSumit)
 [![LinkedIn](https://img.icons8.com/fluency/48/linkedin.png)](https://www.linkedin.com/in/sumit-pal-40511a339)
 
----
 
 💖 *Made with love, fun, and lots of tapping!*
